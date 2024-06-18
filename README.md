@@ -1,4 +1,4 @@
-## Maven-Rail_Challenge
+## Maven-Rail-Challenge
 
 ## Overview
 
