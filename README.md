@@ -70,13 +70,13 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or feedback, please reach out to [yourname@yourdomain.com](mailto:yourname@yourdomain.com).
+For any questions or feedback, please reach out to [deepaksubramani28@gmail.com](mailto:deepaksubramani28@gmail.com).
 
 ---
 
 ### Screenshots
 
-![Dashboard Screenshot](path/to/screenshot.png)
+![Dashboard Screenshot](ScreenShot/Maven_Rail_Challange.png)
 
 ### Data Source
 
